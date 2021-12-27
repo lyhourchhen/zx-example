@@ -7,4 +7,4 @@
 ```sh
 ./script.mjs
 ```
-# zx-example
+
