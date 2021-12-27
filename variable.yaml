@@ -1,0 +1,9 @@
+ip: 178.128.209.231
+port: 22
+apps: 
+  - "api"
+  - "admin-dashboard"
+  - "exchange-service"
+
+
+  

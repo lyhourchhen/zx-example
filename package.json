@@ -1,0 +1,9 @@
+{
+  "name": "zx-example",
+  "author": "@lyhourchhen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
